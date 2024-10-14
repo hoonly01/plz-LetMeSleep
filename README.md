@@ -1,2 +1,2 @@
 # plz-LetMeSleep  
-Binance bitcoin automatic trading(buy/sell) program
+Binance bitcoin automatic trading(buy/sell) program.  
